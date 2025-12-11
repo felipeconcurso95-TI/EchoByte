@@ -1,2 +1,2 @@
-# Scouts
+# EchoByte
 Treino para melhorar
